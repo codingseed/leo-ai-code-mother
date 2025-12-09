@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Vue-3.5.17-blue" alt="Vue">
   <img src="https://img.shields.io/badge/Java-21-orange" alt="Java">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
 一个功能强大的AI代码生成平台，基于Spring Boot 3.5.4和Vue 3构建，集成DeepSeek AI模型，提供智能化的HTML、多文件项目和Vue应用生成服务。
